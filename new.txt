@@ -1,0 +1,1 @@
+Name - Vlad, surname - Ivanov, age - 22, number of pets - 1, desired salary - 500$
